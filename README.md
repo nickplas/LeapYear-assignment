@@ -1,9 +1,7 @@
-# Template project for Software Development Methods assignments
+# Leap Year assignment
 
-A template project for creating assignments for the DSSC Software Development Methods course.
+Write a Java program that prints true or false depending on whether a given integer is a leap year or not.
 
-This template uses:
+A leap year is divisible by 4, but is not otherwise divisible by 100 unless it is also divisible by 400.
 
-- Gradle
-- Java
-- JUnit 5
+For example, 2001 is a typical common year and 1996 is a typical leap year, whereas 1900 is an atypical common year and 2000 is an atypical leap year.
